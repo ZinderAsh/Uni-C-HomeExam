@@ -1,0 +1,17 @@
+==4983== Memcheck, a memory error detector
+==4983== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==4983== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==4983== Command: ./node 1024 13 11:7 17:3 101:4
+==4983== 
+A Very Short Story by Ernest Hemingway 
+The major did not marry her in the spring, or any other time. Luz never got an answer to the letter to Chicago about it. A short time after he contracted gonorrhea from a sales girl in a loop department store while riding in a taxicab through Lincoln Park. 
+QUIT
+==4983== 
+==4983== HEAP SUMMARY:
+==4983==     in use at exit: 0 bytes in 0 blocks
+==4983==   total heap usage: 13 allocs, 13 frees, 18,225 bytes allocated
+==4983== 
+==4983== All heap blocks were freed -- no leaks are possible
+==4983== 
+==4983== For lists of detected and suppressed errors, rerun with: -s
+==4983== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

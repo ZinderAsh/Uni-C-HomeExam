@@ -1,0 +1,23 @@
+32 Over hill, over dale, 
+2 Thorough bush, thorough brier, 
+8 Over park, over pale, 
+64 Thorough flood, thorough fire! 
+32 I do wander everywhere, 
+4 Swifter than the moon's sphere; 
+2 And I serve the Fairy Queen, 
+16 To dew her orbs upon the green; 
+16 The cowslips tall her pensioners be; 
+64 In their gold coats spots you see; 
+8 Those be rubies, fairy favours; 
+256 In those freckles live their savours; 
+128 I must go seek some dewdrops here, 
+4 And hang a pearl in every cowslip's ear.
+64 QUIT
+256 QUIT
+128 QUIT
+16 QUIT
+32 QUIT
+8 QUIT
+2 QUIT
+4 QUIT
+1 QUIT

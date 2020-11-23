@@ -1,0 +1,154 @@
+[C]: distance from 1 to 1 is 0
+[C]: 1 IS on path from 1 to 1
+[C]: distance from 1 to 1 is 0
+[C]: 1 IS on path from 1 to 13
+[C]: distance from 1 to 1 is 0
+[C]: 1 IS on path from 1 to 17
+[C]: distance from 1 to 1 is 0
+[C]: 1 IS on path from 1 to 101
+[C]: distance from 1 to 1 is 0
+[C]: 1 IS on path from 1 to 11
+[C]: distance from 1 to 1 is 0
+[C]: 1 IS on path from 1 to 19
+[C]: distance from 1 to 1 is 0
+[C]: 1 IS on path from 1 to 107
+[C]: distance from 1 to 1 is 0
+[C]: 1 IS on path from 1 to 103
+[C]: 13 IS NOT on path from 1 to 1
+[C]: distance from 1 to 13 is 9
+[C]: 13 IS on path from 1 to 13
+[C]: 13 IS NOT on path from 1 to 17
+[C]: 13 IS NOT on path from 1 to 101
+[C]: 13 IS NOT on path from 1 to 11
+[C]: 13 IS NOT on path from 1 to 19
+[C]: 13 IS NOT on path from 1 to 107
+[C]: 13 IS NOT on path from 1 to 103
+[C]: 17 IS NOT on path from 1 to 1
+[C]: 17 IS NOT on path from 1 to 13
+[C]: distance from 1 to 17 is 10
+[C]: 17 IS on path from 1 to 17
+[C]: 17 IS NOT on path from 1 to 101
+[C]: 17 IS NOT on path from 1 to 11
+[C]: 17 IS NOT on path from 1 to 19
+[C]: 17 IS NOT on path from 1 to 107
+[C]: 17 IS NOT on path from 1 to 103
+[C]: 101 IS NOT on path from 1 to 1
+[C]: 101 IS NOT on path from 1 to 13
+[C]: distance from 1 to 101 is 6
+[C]: 101 IS on path from 1 to 17
+[C]: distance from 1 to 101 is 6
+[C]: 101 IS on path from 1 to 101
+[C]: 101 IS NOT on path from 1 to 11
+[C]: 101 IS NOT on path from 1 to 19
+[C]: distance from 1 to 101 is 6
+[C]: 101 IS on path from 1 to 107
+[C]: 101 IS NOT on path from 1 to 103
+[C]: 11 IS NOT on path from 1 to 1
+[C]: distance from 1 to 11 is 2
+[C]: 11 IS on path from 1 to 13
+[C]: distance from 1 to 11 is 2
+[C]: 11 IS on path from 1 to 17
+[C]: distance from 1 to 11 is 2
+[C]: 11 IS on path from 1 to 101
+[C]: distance from 1 to 11 is 2
+[C]: 11 IS on path from 1 to 11
+[C]: distance from 1 to 11 is 2
+[C]: 11 IS on path from 1 to 19
+[C]: distance from 1 to 11 is 2
+[C]: 11 IS on path from 1 to 107
+[C]: distance from 1 to 11 is 2
+[C]: 11 IS on path from 1 to 103
+[C]: 19 IS NOT on path from 1 to 1
+[C]: 19 IS NOT on path from 1 to 13
+[C]: distance from 1 to 19 is 4
+[C]: 19 IS on path from 1 to 17
+[C]: distance from 1 to 19 is 4
+[C]: 19 IS on path from 1 to 101
+[C]: 19 IS NOT on path from 1 to 11
+[C]: distance from 1 to 19 is 4
+[C]: 19 IS on path from 1 to 19
+[C]: distance from 1 to 19 is 4
+[C]: 19 IS on path from 1 to 107
+[C]: distance from 1 to 19 is 4
+[C]: 19 IS on path from 1 to 103
+[C]: 107 IS NOT on path from 1 to 1
+[C]: 107 IS NOT on path from 1 to 13
+[C]: distance from 1 to 107 is 8
+[C]: 107 IS on path from 1 to 17
+[C]: 107 IS NOT on path from 1 to 101
+[C]: 107 IS NOT on path from 1 to 11
+[C]: 107 IS NOT on path from 1 to 19
+[C]: distance from 1 to 107 is 8
+[C]: 107 IS on path from 1 to 107
+[C]: 107 IS NOT on path from 1 to 103
+[C]: 103 IS NOT on path from 1 to 1
+[C]: 103 IS NOT on path from 1 to 13
+[C]: 103 IS NOT on path from 1 to 17
+[C]: 103 IS NOT on path from 1 to 101
+[C]: 103 IS NOT on path from 1 to 11
+[C]: 103 IS NOT on path from 1 to 19
+[C]: 103 IS NOT on path from 1 to 107
+[C]: distance from 1 to 103 is 5
+[C]: 103 IS on path from 1 to 103
+[1] CREATE PKT len 46 src 1 dst 13 FLG 0 msg A Very Short Story by Ernest Hemingway  
+[1] CREATE PKT len 372 src 1 dst 17 FLG 0 msg One hot evening in Padua they carried him up onto the roof and he could look out over the top of the town. There were chimney swifts in the sky. After a while it got dark and the searchlights came out. The others went down and took the bottles with them. He and Luz could hear them below on the balcony. Luz sat on the bed. She was cool and fresh in the hot night.  
+[1] CREATE PKT len 560 src 1 dst 101 FLG 0 msg Luz stayed on night duty for three months. They were glad to let her. When they operated on him she prepared him for the operating table; and they had a joke about friend or enema. He went under the anaesthetic holding tight on to himself so he would not blab about anything during the silly, talky time. After he got on crutches he used to take the temperatures so Luz would not have to get up from the bed. There were only a few patients, and they all knew about it. They all liked Luz. As he walked back along the halls he thought of Luz in his bed.  
+[1] CREATE PKT len 377 src 1 dst 107 FLG 0 msg Before he went back to the front they went into the Duomo and prayed. It was dim and quiet, and there were other people praying. They wanted to get married, but there was not enough time for the banns, and neither of them had birth certificates. They felt as though they were married, but they wanted everyone to know about it, and to make it so they could not lose it.  
+[1] CREATE PKT len 342 src 1 dst 101 FLG 0 msg Luz wrote him many letters that he never got until after the armistice. Lifteen came in a bunch to the front and he sorted them by the dates and read them all straight through. They were all about the hospital, and how much she loved him and how it was impossible to get along without him and how terrible it was missing him at night.  
+[1] CREATE PKT len 584 src 1 dst 11 FLG 0 msg After the armistice they agreed he should go home to get a job so they might be married. Luz would not come home until he had a good job and could come to New York to meet her. It was understood he would not drink, and he did not want to see his friends or anyone in the States.  Only to get a job and be married. On the train from Padua to Milan they quarreled about her not being willing to come home at once. When they had to say good-bye, in the station at Milan, they kissed good-bye, but were not finished with the quarrel. He felt sick about saying good- bye like that.  
+[1] CREATE PKT len 781 src 1 dst 17 FLG 0 msg He went to America on a boat from Genoa. Luz went back to Pordonone to open a hospital. It was lonely and rainy there, and there was a battalion of arditi quartered in the town. Living in the muddy, rainy town in the winter, the major of the battalion made love to Luz, and she had never known Italians before, and finally wrote to the States that theirs had only been a boy and girl affair. She was sorry, and she knew he would probably not be able to understand, but might some day forgive her, and be grateful to her, and she expected, absolutely unexpectedly, to be married in the spring. She loved him as always, but she realized now it was only a boy and girl love. She hoped he would have a great career, and believed in him absolutely. She knew it was for the best.  
+[1] CREATE PKT len 264 src 1 dst 13 FLG 0 msg The major did not marry her in the spring, or any other time. Luz never got an answer to the letter to Chicago about it. A short time after he contracted gonorrhea from a sales girl in a loop department store while riding in a taxicab through Lincoln Park.  
+[1] CREATE PKT len 11 src 1 dst 17 FLG 0 msg QUIT 
+[1] CREATE PKT len 11 src 1 dst 13 FLG 0 msg QUIT 
+[1] CREATE PKT len 11 src 1 dst 107 FLG 0 msg QUIT 
+[1] CREATE PKT len 11 src 1 dst 101 FLG 0 msg QUIT 
+[1] CREATE PKT len 11 src 1 dst 103 FLG 0 msg QUIT 
+[1] CREATE PKT len 11 src 1 dst 19 FLG 0 msg QUIT 
+[1] CREATE PKT len 11 src 1 dst 11 FLG 0 msg QUIT 
+[1] CREATE PKT len 11 src 1 dst 1 FLG 0 msg QUIT 
+[1] RCV PKT len 11 src 1 dst 1 FLG 0 msg QUIT 
+[11] FWD PKT len 46 src 1 dst 13 FLG 0 msg A Very Short Story by Ernest Hemingway  
+[11] FWD PKT len 372 src 1 dst 17 FLG 0 msg One hot evening in Padua they carried him up onto the roof and he could look out over the top of the town. There were chimney swifts in the sky. After a while it got dark and the searchlights came out. The others went down and took the bottles with them. He and Luz could hear them below on the balcony. Luz sat on the bed. She was cool and fresh in the hot night.  
+[11] FWD PKT len 560 src 1 dst 101 FLG 0 msg Luz stayed on night duty for three months. They were glad to let her. When they operated on him she prepared him for the operating table; and they had a joke about friend or enema. He went under the anaesthetic holding tight on to himself so he would not blab about anything during the silly, talky time. After he got on crutches he used to take the temperatures so Luz would not have to get up from the bed. There were only a few patients, and they all knew about it. They all liked Luz. As he walked back along the halls he thought of Luz in his bed.  
+[11] FWD PKT len 377 src 1 dst 107 FLG 0 msg Before he went back to the front they went into the Duomo and prayed. It was dim and quiet, and there were other people praying. They wanted to get married, but there was not enough time for the banns, and neither of them had birth certificates. They felt as though they were married, but they wanted everyone to know about it, and to make it so they could not lose it.  
+[11] FWD PKT len 342 src 1 dst 101 FLG 0 msg Luz wrote him many letters that he never got until after the armistice. Lifteen came in a bunch to the front and he sorted them by the dates and read them all straight through. They were all about the hospital, and how much she loved him and how it was impossible to get along without him and how terrible it was missing him at night.  
+[11] RCV PKT len 584 src 1 dst 11 FLG 0 msg After the armistice they agreed he should go home to get a job so they might be married. Luz would not come home until he had a good job and could come to New York to meet her. It was understood he would not drink, and he did not want to see his friends or anyone in the States.  Only to get a job and be married. On the train from Padua to Milan they quarreled about her not being willing to come home at once. When they had to say good-bye, in the station at Milan, they kissed good-bye, but were not finished with the quarrel. He felt sick about saying good- bye like that.  
+[11] FWD PKT len 781 src 1 dst 17 FLG 0 msg He went to America on a boat from Genoa. Luz went back to Pordonone to open a hospital. It was lonely and rainy there, and there was a battalion of arditi quartered in the town. Living in the muddy, rainy town in the winter, the major of the battalion made love to Luz, and she had never known Italians before, and finally wrote to the States that theirs had only been a boy and girl affair. She was sorry, and she knew he would probably not be able to understand, but might some day forgive her, and be grateful to her, and she expected, absolutely unexpectedly, to be married in the spring. She loved him as always, but she realized now it was only a boy and girl love. She hoped he would have a great career, and believed in him absolutely. She knew it was for the best.  
+[11] FWD PKT len 264 src 1 dst 13 FLG 0 msg The major did not marry her in the spring, or any other time. Luz never got an answer to the letter to Chicago about it. A short time after he contracted gonorrhea from a sales girl in a loop department store while riding in a taxicab through Lincoln Park.  
+[11] FWD PKT len 11 src 1 dst 17 FLG 0 msg QUIT 
+[11] FWD PKT len 11 src 1 dst 13 FLG 0 msg QUIT 
+[11] FWD PKT len 11 src 1 dst 107 FLG 0 msg QUIT 
+[11] FWD PKT len 11 src 1 dst 101 FLG 0 msg QUIT 
+[11] FWD PKT len 11 src 1 dst 103 FLG 0 msg QUIT 
+[11] FWD PKT len 11 src 1 dst 19 FLG 0 msg QUIT 
+[11] RCV PKT len 11 src 1 dst 11 FLG 0 msg QUIT 
+[13] RCV PKT len 46 src 1 dst 13 FLG 0 msg A Very Short Story by Ernest Hemingway  
+[19] FWD PKT len 372 src 1 dst 17 FLG 0 msg One hot evening in Padua they carried him up onto the roof and he could look out over the top of the town. There were chimney swifts in the sky. After a while it got dark and the searchlights came out. The others went down and took the bottles with them. He and Luz could hear them below on the balcony. Luz sat on the bed. She was cool and fresh in the hot night.  
+[13] RCV PKT len 264 src 1 dst 13 FLG 0 msg The major did not marry her in the spring, or any other time. Luz never got an answer to the letter to Chicago about it. A short time after he contracted gonorrhea from a sales girl in a loop department store while riding in a taxicab through Lincoln Park.  
+[13] RCV PKT len 11 src 1 dst 13 FLG 0 msg QUIT 
+[19] FWD PKT len 560 src 1 dst 101 FLG 0 msg Luz stayed on night duty for three months. They were glad to let her. When they operated on him she prepared him for the operating table; and they had a joke about friend or enema. He went under the anaesthetic holding tight on to himself so he would not blab about anything during the silly, talky time. After he got on crutches he used to take the temperatures so Luz would not have to get up from the bed. There were only a few patients, and they all knew about it. They all liked Luz. As he walked back along the halls he thought of Luz in his bed.  
+[19] FWD PKT len 377 src 1 dst 107 FLG 0 msg Before he went back to the front they went into the Duomo and prayed. It was dim and quiet, and there were other people praying. They wanted to get married, but there was not enough time for the banns, and neither of them had birth certificates. They felt as though they were married, but they wanted everyone to know about it, and to make it so they could not lose it.  
+[19] FWD PKT len 342 src 1 dst 101 FLG 0 msg Luz wrote him many letters that he never got until after the armistice. Lifteen came in a bunch to the front and he sorted them by the dates and read them all straight through. They were all about the hospital, and how much she loved him and how it was impossible to get along without him and how terrible it was missing him at night.  
+[19] FWD PKT len 781 src 1 dst 17 FLG 0 msg He went to America on a boat from Genoa. Luz went back to Pordonone to open a hospital. It was lonely and rainy there, and there was a battalion of arditi quartered in the town. Living in the muddy, rainy town in the winter, the major of the battalion made love to Luz, and she had never known Italians before, and finally wrote to the States that theirs had only been a boy and girl affair. She was sorry, and she knew he would probably not be able to understand, but might some day forgive her, and be grateful to her, and she expected, absolutely unexpectedly, to be married in the spring. She loved him as always, but she realized now it was only a boy and girl love. She hoped he would have a great career, and believed in him absolutely. She knew it was for the best.  
+[19] FWD PKT len 11 src 1 dst 17 FLG 0 msg QUIT 
+[19] FWD PKT len 11 src 1 dst 107 FLG 0 msg QUIT 
+[19] FWD PKT len 11 src 1 dst 101 FLG 0 msg QUIT 
+[19] FWD PKT len 11 src 1 dst 103 FLG 0 msg QUIT 
+[19] RCV PKT len 11 src 1 dst 19 FLG 0 msg QUIT 
+[103] RCV PKT len 11 src 1 dst 103 FLG 0 msg QUIT 
+[101] FWD PKT len 372 src 1 dst 17 FLG 0 msg One hot evening in Padua they carried him up onto the roof and he could look out over the top of the town. There were chimney swifts in the sky. After a while it got dark and the searchlights came out. The others went down and took the bottles with them. He and Luz could hear them below on the balcony. Luz sat on the bed. She was cool and fresh in the hot night.  
+[101] RCV PKT len 560 src 1 dst 101 FLG 0 msg Luz stayed on night duty for three months. They were glad to let her. When they operated on him she prepared him for the operating table; and they had a joke about friend or enema. He went under the anaesthetic holding tight on to himself so he would not blab about anything during the silly, talky time. After he got on crutches he used to take the temperatures so Luz would not have to get up from the bed. There were only a few patients, and they all knew about it. They all liked Luz. As he walked back along the halls he thought of Luz in his bed.  
+[101] FWD PKT len 377 src 1 dst 107 FLG 0 msg Before he went back to the front they went into the Duomo and prayed. It was dim and quiet, and there were other people praying. They wanted to get married, but there was not enough time for the banns, and neither of them had birth certificates. They felt as though they were married, but they wanted everyone to know about it, and to make it so they could not lose it.  
+[101] RCV PKT len 342 src 1 dst 101 FLG 0 msg Luz wrote him many letters that he never got until after the armistice. Lifteen came in a bunch to the front and he sorted them by the dates and read them all straight through. They were all about the hospital, and how much she loved him and how it was impossible to get along without him and how terrible it was missing him at night.  
+[101] FWD PKT len 781 src 1 dst 17 FLG 0 msg He went to America on a boat from Genoa. Luz went back to Pordonone to open a hospital. It was lonely and rainy there, and there was a battalion of arditi quartered in the town. Living in the muddy, rainy town in the winter, the major of the battalion made love to Luz, and she had never known Italians before, and finally wrote to the States that theirs had only been a boy and girl affair. She was sorry, and she knew he would probably not be able to understand, but might some day forgive her, and be grateful to her, and she expected, absolutely unexpectedly, to be married in the spring. She loved him as always, but she realized now it was only a boy and girl love. She hoped he would have a great career, and believed in him absolutely. She knew it was for the best.  
+[101] FWD PKT len 11 src 1 dst 17 FLG 0 msg QUIT 
+[101] FWD PKT len 11 src 1 dst 107 FLG 0 msg QUIT 
+[101] RCV PKT len 11 src 1 dst 101 FLG 0 msg QUIT 
+[107] FWD PKT len 372 src 1 dst 17 FLG 0 msg One hot evening in Padua they carried him up onto the roof and he could look out over the top of the town. There were chimney swifts in the sky. After a while it got dark and the searchlights came out. The others went down and took the bottles with them. He and Luz could hear them below on the balcony. Luz sat on the bed. She was cool and fresh in the hot night.  
+[107] RCV PKT len 377 src 1 dst 107 FLG 0 msg Before he went back to the front they went into the Duomo and prayed. It was dim and quiet, and there were other people praying. They wanted to get married, but there was not enough time for the banns, and neither of them had birth certificates. They felt as though they were married, but they wanted everyone to know about it, and to make it so they could not lose it.  
+[107] FWD PKT len 781 src 1 dst 17 FLG 0 msg He went to America on a boat from Genoa. Luz went back to Pordonone to open a hospital. It was lonely and rainy there, and there was a battalion of arditi quartered in the town. Living in the muddy, rainy town in the winter, the major of the battalion made love to Luz, and she had never known Italians before, and finally wrote to the States that theirs had only been a boy and girl affair. She was sorry, and she knew he would probably not be able to understand, but might some day forgive her, and be grateful to her, and she expected, absolutely unexpectedly, to be married in the spring. She loved him as always, but she realized now it was only a boy and girl love. She hoped he would have a great career, and believed in him absolutely. She knew it was for the best.  
+[107] FWD PKT len 11 src 1 dst 17 FLG 0 msg QUIT 
+[107] RCV PKT len 11 src 1 dst 107 FLG 0 msg QUIT 
+[17] RCV PKT len 372 src 1 dst 17 FLG 0 msg One hot evening in Padua they carried him up onto the roof and he could look out over the top of the town. There were chimney swifts in the sky. After a while it got dark and the searchlights came out. The others went down and took the bottles with them. He and Luz could hear them below on the balcony. Luz sat on the bed. She was cool and fresh in the hot night.  
+[17] RCV PKT len 781 src 1 dst 17 FLG 0 msg He went to America on a boat from Genoa. Luz went back to Pordonone to open a hospital. It was lonely and rainy there, and there was a battalion of arditi quartered in the town. Living in the muddy, rainy town in the winter, the major of the battalion made love to Luz, and she had never known Italians before, and finally wrote to the States that theirs had only been a boy and girl affair. She was sorry, and she knew he would probably not be able to understand, but might some day forgive her, and be grateful to her, and she expected, absolutely unexpectedly, to be married in the spring. She loved him as always, but she realized now it was only a boy and girl love. She hoped he would have a great career, and believed in him absolutely. She knew it was for the best.  
+[17] RCV PKT len 11 src 1 dst 17 FLG 0 msg QUIT 
